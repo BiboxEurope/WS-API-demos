@@ -3,7 +3,7 @@ const WebSocket = require('ws');
 const pako = require('pako');
 let CryptoJS = require("crypto-js");
 
-const WS_URL = 'wss://push.bibox.com/';
+const WS_URL = 'wss://push.bibox.cc/';
 
 function handle(msg) {
 
