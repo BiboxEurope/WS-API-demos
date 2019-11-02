@@ -47,7 +47,7 @@ function handle(msg) {
 
 function subscribe(ws) {
 
-    let pairs = ['BIX_BTC', 'BIX_ETH'];
+    let pairs = ['ETH_BTC', 'BTC_CHF'];
 
     // // subscribe market
     // for (let pair of pairs) {
